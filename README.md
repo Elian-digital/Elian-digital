@@ -4,7 +4,8 @@
 
 ---
 
-📊 + 📺 Analista de datos con más de 14 años en publicidad desarrollando y liderando proyectos creativos.  
+📊 + 📺 Analista de datos con background creativo en publicidad, liderando proyectos que conectan números con narrativas.
+
 🧠 + 🎯 Uso el pensamiento estratégico, la visión analítica y el storytelling visual para transformar datos en decisiones buscando impacto e innovación  
 
 🛠️ + 🎨 Trabajo con Python, SQL, Power BI y Adobe Creative Suite para analizar, visualizar e interpretar información.  
