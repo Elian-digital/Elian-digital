@@ -5,7 +5,7 @@
 ---
 
 📊 + 📺 Analista de datos con más de 14 años en publicidad desarrollando y liderando proyectos creativos.  
-Uso el pensamiento estratégico, la visión analítica y el storytelling visual para transformar datos en decisiones buscando impacto e innovación  
+🧠 + 🎯 Uso el pensamiento estratégico, la visión analítica y el storytelling visual para transformar datos en decisiones buscando impacto e innovación  
 
 🛠️ + 🎨 Trabajo con Python, SQL, Power BI y Adobe Creative Suite para analizar, visualizar e interpretar información.  
 ⚙️ + ✨ Combino la lógica del dato con la sensibilidad para entender el contexto y comunicarlo de forma clara a distintos públicos.  
@@ -15,8 +15,6 @@ Uso el pensamiento estratégico, la visión analítica y el storytelling visual 
 ---
   
 - 🌱 Ahora estoy estudiando en **IT Academy**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Elian-digital](https://github.com/Elian-digital)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
