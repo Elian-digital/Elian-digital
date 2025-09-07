@@ -1,5 +1,5 @@
 
-<h1>Hola 👋, soy Elian</h1>
+<h1>Hola 🙋‍♂️, soy Elian</h1>
 <h3>Data Analyst | Visual Storyteller | Creative Thinker </h3>
 
 ---
