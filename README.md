@@ -10,7 +10,7 @@
 
 🛠️ + 🎨 Trabajo con Python, SQL, Power BI y Adobe Creative Suite para analizar, visualizar e interpretar información.  
 ⚙️ + ✨ Combino la lógica del dato con la sensibilidad para entender el contexto y comunicarlo de forma clara a distintos públicos.  
-🍵 + 🧀 Y esta historia te la puedo contar en Español, Inglés (B2) o Francés (A1)  
+🍵 + 🧀 Y esta historia te la puedo contar en Español, Inglés (B2) o Francés (A2)  
 
 
 ---
