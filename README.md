@@ -4,10 +4,8 @@
 
 ---
 
-📊 + 📺 Analista de datos con background creativo en publicidad, liderando proyectos que conectan números con narrativas.
-
+📊 + 📺 Analista de datos con background en publicidad, liderando proyectos que conectan números con narrativas.
 🧠 + 🎯 Uso el pensamiento estratégico, la visión analítica y el storytelling visual para transformar datos en decisiones buscando impacto e innovación  
-
 🛠️ + 🎨 Trabajo con Python, SQL, Power BI y Adobe Creative Suite para analizar, visualizar e interpretar información.  
 ⚙️ + ✨ Combino la lógica del dato con la sensibilidad para entender el contexto y comunicarlo de forma clara a distintos públicos.  
 🍵 + 🧀 Y esta historia te la puedo contar en Español, Inglés (B2) o Francés (A2)  
