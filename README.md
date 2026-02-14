@@ -1,15 +1,17 @@
-
 <h1>Hola 🙋‍♂️, soy Elian</h1>
 <h3>Data Analyst | Data Visualization Specialist |  Business Intelligence | Creative Thinker  </h3> 
-<h3>Python · SQL · Power BI · DAX </h3>
 
----
-
-# 👨‍💻 Elian Daghoum | Data Visualization Specialist & Analyst
 > **Transformando números en narrativas visuales mediante pensamiento estratégico y diseño de información.**
 
-Vengo del mundo de la **Publicidad**, lo que me permite conectar la lógica del dato con la sensibilidad para entender el contexto. Me especializo en crear ecosistemas de datos (ETL, SQL, Python) diseñados bajo principios de **Jerarquía Visual y Psicología de la Gestalt** para maximizar el descubrimiento de *insights*.
+Vengo del mundo de la **Comunicación**, lo que me permite conectar la lógica del dato con la sensibilidad para entender el contexto. Me especializo en crear ecosistemas de datos (ETL, SQL, Python) diseñados bajo principios de **Jerarquía Visual** para maximizar el descubrimiento de *insights*.
 
+
+
+## 💡 Lo que aporto a los datos
+
+* **Ecosistemas de Datos:** Diseño de procesos ETL eficientes desde la extracción hasta la carga.
+* **Data Storytelling:** No solo presento gráficos; cuento historias que impulsan la toma de decisiones.
+* **Diseño Funcional:** Aplicación de UX/UI en dashboards para garantizar que el usuario encuentre la respuesta en segundos.
 
 ---
   
@@ -41,6 +43,8 @@ Vengo del mundo de la **Publicidad**, lo que me permite conectar la lógica del 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 
 ---
 
