@@ -1,17 +1,23 @@
 <h1>Hola 🙋‍♂️, soy Elian</h1>
-<h3>Data Analyst | Data Visualization Specialist |  Business Intelligence | Creative Thinker  </h3> 
+<h3>Data Visualization Specialist & Business Intelligence · Power BI · SQL · Python · Data Modeling  </h3> 
 
-> **Transformando números en narrativas visuales mediante pensamiento estratégico y diseño de información.**
+> **Diseñando sistemas de visualización que convierten datos complejos en narrativas visuales y decisiones claras.**
 
-Vengo del mundo de la **Comunicación**, lo que me permite conectar la lógica del dato con la sensibilidad para entender el contexto. Me especializo en crear ecosistemas de datos (ETL, SQL, Python) diseñados bajo principios de **Jerarquía Visual** para maximizar el descubrimiento de *insights*.
+Mi fortaleza está en la *visualización estratégica de datos*: transformar modelos analíticos en dashboards intuitivos, estructurados y orientados a decisión.
+
+Con background en **Comunicación y Dirección de Arte**, combino principios de jerarquía visual, percepción y UX con fundamentos sólidos de Business Intelligence. Construyo soluciones end-to-end - desde la preparación y modelado de datos con SQL y Python hasta el diseño de dashboards en Power BI - asegurando que cada visual responda a una pregunta concreta de negocio.
+
+*No creo dashboards decorativos. Diseño herramientas de decisión.*
 
 
+## 💡 Lo que aporto a tu equipo
 
-## 💡 Lo que aporto a los datos
+* **Strategic Data Visualization:** Diseño dashboards donde cada elemento tiene intención, jerarquía y propósito analítico.
 
-* **Ecosistemas de Datos:** Diseño de procesos ETL eficientes desde la extracción hasta la carga.
-* **Data Storytelling:** No solo presento gráficos; cuento historias que impulsan la toma de decisiones.
-* **Diseño Funcional:** Aplicación de UX/UI en dashboards para garantizar que el usuario encuentre la respuesta en segundos.
+* **UX for Analytics:** Aplico principios de diseño funcional para reducir fricción cognitiva y acelerar la comprensión.
+
+* **Data Foundations:** Desarrollo modelos de datos y procesos ETL que garantizan consistencia y escalabilidad en la visualización.
+
 
 ---
   
