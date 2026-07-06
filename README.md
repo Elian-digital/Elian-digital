@@ -34,6 +34,12 @@ Mi diferenciador no es solo el stack técnico —es que sé cómo piensa un stak
 | [![Sales](https://github.com/Elian-digital/PowerBI_Sales-Diagnosis-Churn-Analysis/raw/main/images/01_Evolucion_pedidos_ventas.png?raw=true)](https://github.com/Elian-digital/PowerBI_Sales-Diagnosis-Churn-Analysis) | **[Sales Diagnosis: El Efecto Espejismo](https://github.com/Elian-digital/PowerBI_Sales-Diagnosis-Churn-Analysis)** <br><br> Las ventas bajaban, pero el ticket medio subía. Un único cliente alemán estaba distorsionando todos los KPIs de la compañía. <br><br> ✅ Diagnóstico de causa raíz por mercado <br> ✅ Detección de Churn real vs. anomalía métrica <br> ✅ ETL avanzado con Power Query |
 | [![Customer](https://github.com/Elian-digital/Customer-Intelligence-Radar-Segmentation-Strategy/raw/main/assets/Dashboard%20clientes.png?raw=true)](https://github.com/Elian-digital/Customer-Intelligence-Radar-Segmentation-Strategy) | **[Customer Intelligence Radar](https://github.com/Elian-digital/Customer-Intelligence-Radar-Segmentation-Strategy)** <br><br> El 39% de la base de clientes llevaba más de 180 días sin comprar. Este proyecto localiza quiénes son, dónde están y qué hacer con cada uno. <br><br> ✅ Segmentación RFM & ARPU <br> ✅ Motor de recomendación geográfica (DAX) <br> ✅ Matriz de priorización de mercados |
 
+### 🗄️ SQL
+
+| Proyecto | Descripción |
+|---|---|
+| [Courier Chat SQL Analysis](https://github.com/Elian-digital/courier-chat-sql) | Pipeline SQL que transforma mensajes individuales entre clientes y repartidores en métricas de conversación: tiempos de respuesta, quién abre el chat y el estado del pedido al cierre. ✅ CTEs encadenadas ✅ Window functions `ROW_NUMBER · PARTITION BY` ✅ Agregaciones condicionales |
+
 ### 🛠️ Herramientas & Stack
 
 | Proyecto | Descripción |
